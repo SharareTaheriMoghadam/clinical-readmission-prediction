@@ -1,0 +1,47 @@
+Class: msdo:ReadmissionRiskProfile
+
+SubClassOf:
+
+msdo:RiskProfile
+
+
+Class: msdo:HighReadmissionRisk
+
+SubClassOf:
+
+msdo:ReadmissionRiskProfile
+
+
+Class: msdo:ModerateReadmissionRisk
+
+SubClassOf:
+
+msdo:ReadmissionRiskProfile
+
+
+
+ObjectProperty:
+
+msdo:hasReadmissionRisk
+
+Domain:
+
+msdo:Patient
+
+Range:
+
+msdo:ReadmissionRiskProfile
+
+
+
+ObjectProperty:
+
+msdo:generatedByModel
+
+Domain:
+
+msdo:DecisionArtifact
+
+Range:
+
+msdo:AISystem
