@@ -973,3 +973,21 @@ It also creates a very clear portfolio connection:
 Clinical Readmission Prediction → Explainable AI → MSCDO → Knowledge Graphs → TrustMedAI
 
 which is exactly the kind of progression that makes this repository valuable alongside my other healthcare-AI projects.
+## Jupyter Notebook
+
+The repository includes an interactive notebook:
+
+`notebooks/EDA_and_Modeling.ipynb`
+
+The notebook provides a reproducible workflow covering:
+
+- Exploratory data analysis
+- Clinical feature characterization
+- Data preprocessing
+- Machine learning model development
+- Logistic Regression and Random Forest comparison
+- Performance evaluation
+- Feature importance analysis
+- SHAP-based explainability
+
+The notebook is designed to support manuscript reproducibility and facilitate further research extensions.
