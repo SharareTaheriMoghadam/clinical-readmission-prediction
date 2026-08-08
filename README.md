@@ -3,12 +3,12 @@ Ontology-Enhanced Explainable Clinical Readmission Prediction
 
 An Interpretable Machine Learning Framework for Risk Stratification and Human–AI Clinical Decision Support
 
-"Python" (https://img.shields.io/badge/Python-3.9+-blue.svg)
-"Machine Learning" (https://img.shields.io/badge/ML-Logistic%20Regression%20%7C%20Random%20Forest-orange.svg)
-"Explainable AI" (https://img.shields.io/badge/XAI-SHAP%20%7C%20LIME-green.svg)
-"Ontology" (https://img.shields.io/badge/Semantics-OWL%20%7C%20RDF%20%7C%20MSCDO-purple.svg)
-"Healthcare AI" (https://img.shields.io/badge/Domain-Clinical%20Decision%20Support-red.svg)
-"Status" (https://img.shields.io/badge/Status-Research%20Prototype-yellow.svg)
+"Python" --->
+"Machine Learning" --->
+"Explainable AI" --->
+"Ontology" --->
+"Healthcare AI" --->
+"Status"
 
 ---
 
